@@ -61,7 +61,7 @@ body {
 }
 #menu a {
     margin:0px 6%;
-    font-size:19px;
+    font-size:24px;
     color:#fff;
     text-decoration:underline;
 }
@@ -80,14 +80,14 @@ body {
 }
 #middle h1 {
     color:rgb(105, 50, 255);
-    font-size:70px;
+    font-size:80px;
     text-decoration:underline;
 }
 #about {
     width:10vw;
     height:10vw;
     text-align:center;
-    font-size:25px;
+    font-size:36px;
     transform:rotate(-90deg);
     background:transparent;
     color:#fff;
@@ -105,7 +105,7 @@ body {
     width:10vw;
     height:10vw;
     text-align:center;
-    font-size:25px;
+    font-size:36px;
     transform:rotate(90deg);
     background:transparent;
     color:#fff;
@@ -123,7 +123,7 @@ body {
     width:10vw;
     height:10vw;
     text-align:center;
-    font-size:25px;
+    font-size:36px;
     background:transparent;
     color:#fff;
     position:fixed;
@@ -157,7 +157,7 @@ body {
 }
 .social {
     color:#fff;
-    font-size:22px;
+    font-size:36px;
     border-radius:50%;
     transition:0.4s ease-in-out;
     margin:0px 8px;
@@ -180,7 +180,7 @@ body {
     display:none;
 }
 .container div {
-    font-size:25px;
+    font-size:36px;
     margin:20px 0px;
     transition:0.4s ease-in-out;
 }
@@ -191,7 +191,7 @@ body {
     margin:8vh 0px;
 }
 #used div{
-    font-size:14px !important;
+    font-size:24px !important;
     display:inline-block;
     padding:8px 10px;
     border:2px solid #fff;
@@ -205,14 +205,14 @@ body {
     cursor:text;
 }
 .container h1 {
-    font-size:60px;
+    font-size:72px;
     text-decoration:underline;
 }
 .container p {
-    font-size:21px;
+    font-size:36px;
 }
 .btn_one {
-    font-size:18px;
+    font-size:24px;
     font-family: 'Josefin Sans', sans-serif;
     color:#fff;
     background:transparent;
@@ -229,7 +229,7 @@ body {
     background:#fff;
 }
 .btn_two {
-    font-size:18px;
+    font-size:24px;
     font-family: 'Josefin Sans', sans-serif;
     color:rgb(50, 135, 255);
     background:#fff;
@@ -252,7 +252,7 @@ body {
     border-bottom:3px solid rgba(255,255,255,0.5);
     padding:8px 10px;
     font-family: 'Poppins', sans-serif;
-    font-size:18px;
+    font-size:24px;
     transition:0.4s ease-in-out;
     color:#fff;
     font-weight:bold;
@@ -265,7 +265,7 @@ body {
     border-bottom:3px solid rgba(255,255,255,0.5);
     padding:8px 10px;
     font-family: 'Poppins', sans-serif;
-    font-size:18px;
+    font-size:24px;
     background:transparent;
     resize:none;
     transition:0.4s ease-in-out;
@@ -291,7 +291,7 @@ body {
     position:fixed;
     z-index:1;
     bottom:0;
-    font-size:16px;
+    font-size:24px;
     font-weight:bold;
 }
 #footer a {
